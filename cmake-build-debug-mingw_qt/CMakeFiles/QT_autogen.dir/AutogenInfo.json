@@ -1,0 +1,239 @@
+{
+	"BUILD_DIR" : "E:/Clion/project/QT/cmake-build-debug-mingw_qt/QT_autogen",
+	"CMAKE_BINARY_DIR" : "E:/Clion/project/QT/cmake-build-debug-mingw_qt",
+	"CMAKE_CURRENT_BINARY_DIR" : "E:/Clion/project/QT/cmake-build-debug-mingw_qt",
+	"CMAKE_CURRENT_SOURCE_DIR" : "E:/Clion/project/QT",
+	"CMAKE_EXECUTABLE" : "E:/Clion/CLion 2023.3.3/bin/cmake/win/x64/bin/cmake.exe",
+	"CMAKE_LIST_FILES" : 
+	[
+		"E:/Clion/project/QT/CMakeLists.txt",
+		"E:/Clion/project/QT/cmake-build-debug-mingw_qt/CMakeFiles/3.27.8/CMakeSystem.cmake",
+		"E:/Clion/CLion 2023.3.3/bin/cmake/win/x64/share/cmake-3.27/Modules/CMakeSystemSpecificInitialize.cmake",
+		"E:/Clion/CLion 2023.3.3/bin/cmake/win/x64/share/cmake-3.27/Modules/Platform/Windows-Initialize.cmake",
+		"E:/Clion/project/QT/cmake-build-debug-mingw_qt/CMakeFiles/3.27.8/CMakeCCompiler.cmake",
+		"E:/Clion/project/QT/cmake-build-debug-mingw_qt/CMakeFiles/3.27.8/CMakeCXXCompiler.cmake",
+		"E:/Clion/CLion 2023.3.3/bin/cmake/win/x64/share/cmake-3.27/Modules/CMakeSystemSpecificInformation.cmake",
+		"E:/Clion/CLion 2023.3.3/bin/cmake/win/x64/share/cmake-3.27/Modules/CMakeGenericSystem.cmake",
+		"E:/Clion/CLion 2023.3.3/bin/cmake/win/x64/share/cmake-3.27/Modules/CMakeInitializeConfigs.cmake",
+		"E:/Clion/CLion 2023.3.3/bin/cmake/win/x64/share/cmake-3.27/Modules/Platform/Windows.cmake",
+		"E:/Clion/CLion 2023.3.3/bin/cmake/win/x64/share/cmake-3.27/Modules/Platform/WindowsPaths.cmake",
+		"E:/Clion/CLion 2023.3.3/bin/cmake/win/x64/share/cmake-3.27/Modules/CMakeFindCodeBlocks.cmake",
+		"E:/Clion/CLion 2023.3.3/bin/cmake/win/x64/share/cmake-3.27/Modules/CMakeExtraGeneratorDetermineCompilerMacrosAndIncludeDirs.cmake",
+		"E:/Clion/CLion 2023.3.3/bin/cmake/win/x64/share/cmake-3.27/Modules/ProcessorCount.cmake",
+		"E:/Clion/CLion 2023.3.3/bin/cmake/win/x64/share/cmake-3.27/Modules/CMakeCInformation.cmake",
+		"E:/Clion/CLion 2023.3.3/bin/cmake/win/x64/share/cmake-3.27/Modules/CMakeLanguageInformation.cmake",
+		"E:/Clion/CLion 2023.3.3/bin/cmake/win/x64/share/cmake-3.27/Modules/Compiler/GNU-C.cmake",
+		"E:/Clion/CLion 2023.3.3/bin/cmake/win/x64/share/cmake-3.27/Modules/Compiler/GNU.cmake",
+		"E:/Clion/CLion 2023.3.3/bin/cmake/win/x64/share/cmake-3.27/Modules/Compiler/CMakeCommonCompilerMacros.cmake",
+		"E:/Clion/CLion 2023.3.3/bin/cmake/win/x64/share/cmake-3.27/Modules/Platform/Windows-GNU-C.cmake",
+		"E:/Clion/CLion 2023.3.3/bin/cmake/win/x64/share/cmake-3.27/Modules/Platform/Windows-GNU.cmake",
+		"E:/Clion/project/QT/cmake-build-debug-mingw_qt/CMakeFiles/3.27.8/CMakeRCCompiler.cmake",
+		"E:/Clion/CLion 2023.3.3/bin/cmake/win/x64/share/cmake-3.27/Modules/CMakeRCInformation.cmake",
+		"E:/Clion/CLion 2023.3.3/bin/cmake/win/x64/share/cmake-3.27/Modules/Platform/Windows-windres.cmake",
+		"E:/Clion/CLion 2023.3.3/bin/cmake/win/x64/share/cmake-3.27/Modules/Platform/Windows-GNU-C-ABI.cmake",
+		"E:/Clion/CLion 2023.3.3/bin/cmake/win/x64/share/cmake-3.27/Modules/CMakeCommonLanguageInclude.cmake",
+		"E:/Clion/CLion 2023.3.3/bin/cmake/win/x64/share/cmake-3.27/Modules/CMakeCXXInformation.cmake",
+		"E:/Clion/CLion 2023.3.3/bin/cmake/win/x64/share/cmake-3.27/Modules/CMakeLanguageInformation.cmake",
+		"E:/Clion/CLion 2023.3.3/bin/cmake/win/x64/share/cmake-3.27/Modules/Compiler/GNU-CXX.cmake",
+		"E:/Clion/CLion 2023.3.3/bin/cmake/win/x64/share/cmake-3.27/Modules/Compiler/GNU.cmake",
+		"E:/Clion/CLion 2023.3.3/bin/cmake/win/x64/share/cmake-3.27/Modules/Platform/Windows-GNU-CXX.cmake",
+		"E:/Clion/CLion 2023.3.3/bin/cmake/win/x64/share/cmake-3.27/Modules/Platform/Windows-GNU.cmake",
+		"E:/Clion/CLion 2023.3.3/bin/cmake/win/x64/share/cmake-3.27/Modules/Platform/Windows-GNU-CXX-ABI.cmake",
+		"E:/Clion/CLion 2023.3.3/bin/cmake/win/x64/share/cmake-3.27/Modules/CMakeCommonLanguageInclude.cmake",
+		"B:/QT/5.12.9/mingw73_64/lib/cmake/Qt5/Qt5ConfigVersion.cmake",
+		"B:/QT/5.12.9/mingw73_64/lib/cmake/Qt5/Qt5Config.cmake",
+		"B:/QT/5.12.9/mingw73_64/lib/cmake/Qt5/Qt5ModuleLocation.cmake",
+		"B:/QT/5.12.9/mingw73_64/lib/cmake/Qt5Core/Qt5CoreConfigVersion.cmake",
+		"B:/QT/5.12.9/mingw73_64/lib/cmake/Qt5Core/Qt5CoreConfig.cmake",
+		"B:/QT/5.12.9/mingw73_64/lib/cmake/Qt5Core/Qt5CoreConfigExtras.cmake",
+		"B:/QT/5.12.9/mingw73_64/lib/cmake/Qt5Core/Qt5CoreConfigExtrasMkspecDir.cmake",
+		"B:/QT/5.12.9/mingw73_64/lib/cmake/Qt5Core/Qt5CoreMacros.cmake",
+		"E:/Clion/CLion 2023.3.3/bin/cmake/win/x64/share/cmake-3.27/Modules/CMakeParseArguments.cmake",
+		"B:/QT/5.12.9/mingw73_64/lib/cmake/Qt5Gui/Qt5GuiConfigVersion.cmake",
+		"B:/QT/5.12.9/mingw73_64/lib/cmake/Qt5Gui/Qt5GuiConfig.cmake",
+		"B:/QT/5.12.9/mingw73_64/lib/cmake/Qt5Gui/Qt5Gui_QGifPlugin.cmake",
+		"B:/QT/5.12.9/mingw73_64/lib/cmake/Qt5Gui/Qt5Gui_QICNSPlugin.cmake",
+		"B:/QT/5.12.9/mingw73_64/lib/cmake/Qt5Gui/Qt5Gui_QICOPlugin.cmake",
+		"B:/QT/5.12.9/mingw73_64/lib/cmake/Qt5Gui/Qt5Gui_QJpegPlugin.cmake",
+		"B:/QT/5.12.9/mingw73_64/lib/cmake/Qt5Gui/Qt5Gui_QMinimalIntegrationPlugin.cmake",
+		"B:/QT/5.12.9/mingw73_64/lib/cmake/Qt5Gui/Qt5Gui_QOffscreenIntegrationPlugin.cmake",
+		"B:/QT/5.12.9/mingw73_64/lib/cmake/Qt5Gui/Qt5Gui_QTgaPlugin.cmake",
+		"B:/QT/5.12.9/mingw73_64/lib/cmake/Qt5Gui/Qt5Gui_QTiffPlugin.cmake",
+		"B:/QT/5.12.9/mingw73_64/lib/cmake/Qt5Gui/Qt5Gui_QTuioTouchPlugin.cmake",
+		"B:/QT/5.12.9/mingw73_64/lib/cmake/Qt5Gui/Qt5Gui_QVirtualKeyboardPlugin.cmake",
+		"B:/QT/5.12.9/mingw73_64/lib/cmake/Qt5Gui/Qt5Gui_QWbmpPlugin.cmake",
+		"B:/QT/5.12.9/mingw73_64/lib/cmake/Qt5Gui/Qt5Gui_QWebGLIntegrationPlugin.cmake",
+		"B:/QT/5.12.9/mingw73_64/lib/cmake/Qt5Gui/Qt5Gui_QWebpPlugin.cmake",
+		"B:/QT/5.12.9/mingw73_64/lib/cmake/Qt5Gui/Qt5Gui_QWindowsDirect2DIntegrationPlugin.cmake",
+		"B:/QT/5.12.9/mingw73_64/lib/cmake/Qt5Gui/Qt5Gui_QWindowsIntegrationPlugin.cmake",
+		"B:/QT/5.12.9/mingw73_64/lib/cmake/Qt5Gui/Qt5Gui_QXdgDesktopPortalThemePlugin.cmake",
+		"B:/QT/5.12.9/mingw73_64/lib/cmake/Qt5Gui/Qt5GuiConfigExtras.cmake",
+		"B:/QT/5.12.9/mingw73_64/lib/cmake/Qt5Widgets/Qt5WidgetsConfigVersion.cmake",
+		"B:/QT/5.12.9/mingw73_64/lib/cmake/Qt5Widgets/Qt5WidgetsConfig.cmake",
+		"B:/QT/5.12.9/mingw73_64/lib/cmake/Qt5Widgets/Qt5Widgets_QWindowsVistaStylePlugin.cmake",
+		"B:/QT/5.12.9/mingw73_64/lib/cmake/Qt5Widgets/Qt5WidgetsConfigExtras.cmake",
+		"B:/QT/5.12.9/mingw73_64/lib/cmake/Qt5Widgets/Qt5WidgetsMacros.cmake",
+		"E:/Clion/CLion 2023.3.3/bin/cmake/win/x64/share/cmake-3.27/Modules/CMakeParseArguments.cmake",
+		"B:/QT/5.12.9/mingw73_64/lib/cmake/Qt5Sql/Qt5SqlConfigVersion.cmake",
+		"B:/QT/5.12.9/mingw73_64/lib/cmake/Qt5Sql/Qt5SqlConfig.cmake",
+		"B:/QT/5.12.9/mingw73_64/lib/cmake/Qt5Sql/Qt5Sql_QODBCDriverPlugin.cmake",
+		"B:/QT/5.12.9/mingw73_64/lib/cmake/Qt5Sql/Qt5Sql_QPSQLDriverPlugin.cmake",
+		"B:/QT/5.12.9/mingw73_64/lib/cmake/Qt5Sql/Qt5Sql_QSQLiteDriverPlugin.cmake",
+		"B:/QT/5.12.9/mingw73_64/lib/cmake/Qt5SerialPort/Qt5SerialPortConfigVersion.cmake",
+		"B:/QT/5.12.9/mingw73_64/lib/cmake/Qt5SerialPort/Qt5SerialPortConfig.cmake",
+		"B:/QT/5.12.9/mingw73_64/lib/cmake/Qt5Network/Qt5NetworkConfigVersion.cmake",
+		"B:/QT/5.12.9/mingw73_64/lib/cmake/Qt5Network/Qt5NetworkConfig.cmake",
+		"B:/QT/5.12.9/mingw73_64/lib/cmake/Qt5Network/Qt5Network_QGenericEnginePlugin.cmake"
+	],
+	"CMAKE_SOURCE_DIR" : "E:/Clion/project/QT",
+	"DEP_FILE" : "",
+	"DEP_FILE_RULE_NAME" : "",
+	"HEADERS" : 
+	[
+		[
+			"E:/Clion/project/QT/rtsp/addURL/addurl.h",
+			"MU",
+			"5BRLEXPFTX/moc_addurl.cpp",
+			null
+		],
+		[
+			"E:/Clion/project/QT/rtsp/listNode/videoList.h",
+			"MU",
+			"FZU2PVKO6U/moc_videoList.cpp",
+			null
+		],
+		[
+			"E:/Clion/project/QT/rtsp/mySerialPort/mySerialPort.h",
+			"MU",
+			"6MWHJT5XCQ/moc_mySerialPort.cpp",
+			null
+		],
+		[
+			"E:/Clion/project/QT/rtsp/mysql/mysql.h",
+			"MU",
+			"P34KKEKU54/moc_mysql.cpp",
+			null
+		],
+		[
+			"E:/Clion/project/QT/rtsp/rtsp.h",
+			"MU",
+			"3XSEQGP7XL/moc_rtsp.cpp",
+			null
+		],
+		[
+			"E:/Clion/project/QT/rtsp/rtspUI/pushBtn/pushBtn.h",
+			"MU",
+			"JATCVGDV6B/moc_pushBtn.cpp",
+			null
+		],
+		[
+			"E:/Clion/project/QT/rtsp/rtspUI/rtspui.h",
+			"MU",
+			"RYLH5AODGZ/moc_rtspui.cpp",
+			null
+		],
+		[
+			"E:/Clion/project/QT/rtsp/rtspUI/switchBtn/SwitchBtn.h",
+			"MU",
+			"VPQ5JKMVSR/moc_SwitchBtn.cpp",
+			null
+		],
+		[
+			"E:/Clion/project/QT/rtsp/rtspUI/videoScrollArea/videoScrollArea.h",
+			"MU",
+			"CJMATALQT2/moc_videoScrollArea.cpp",
+			null
+		],
+		[
+			"E:/Clion/project/QT/rtsp/videoWin/videoLabel.h",
+			"MU",
+			"ATJORHTWKJ/moc_videoLabel.cpp",
+			null
+		]
+	],
+	"HEADER_EXTENSIONS" : [ "h", "hh", "h++", "hm", "hpp", "hxx", "in", "txx" ],
+	"INCLUDE_DIR" : "E:/Clion/project/QT/cmake-build-debug-mingw_qt/QT_autogen/include",
+	"MOC_COMPILATION_FILE" : "E:/Clion/project/QT/cmake-build-debug-mingw_qt/QT_autogen/mocs_compilation.cpp",
+	"MOC_DEFINITIONS" : 
+	[
+		"QT_CORE_LIB",
+		"QT_GUI_LIB",
+		"QT_NETWORK_LIB",
+		"QT_SERIALPORT_LIB",
+		"QT_SQL_LIB",
+		"QT_WIDGETS_LIB"
+	],
+	"MOC_DEPEND_FILTERS" : 
+	[
+		[
+			"Q_PLUGIN_METADATA",
+			"[\n][ \t]*Q_PLUGIN_METADATA[ \t]*\\([^\\)]*FILE[ \t]*\"([^\"]+)\""
+		]
+	],
+	"MOC_INCLUDES" : 
+	[
+		"E:/Clion/project/QT/ffmpeg/include",
+		"E:/Clion/project/QT/opencv/include",
+		"B:/QT/5.12.9/mingw73_64/include",
+		"B:/QT/5.12.9/mingw73_64/include/QtCore",
+		"B:/QT/5.12.9/mingw73_64/mkspecs/win32-g++",
+		"B:/QT/5.12.9/mingw73_64/include/QtGui",
+		"B:/QT/5.12.9/mingw73_64/include/QtANGLE",
+		"B:/QT/5.12.9/mingw73_64/include/QtWidgets",
+		"B:/QT/5.12.9/mingw73_64/include/QtSql",
+		"B:/QT/5.12.9/mingw73_64/include/QtSerialPort",
+		"B:/QT/5.12.9/mingw73_64/include/QtNetwork",
+		"B:/QT/Tools/mingw730_64/lib/gcc/x86_64-w64-mingw32/7.3.0/include/c++",
+		"B:/QT/Tools/mingw730_64/lib/gcc/x86_64-w64-mingw32/7.3.0/include/c++/x86_64-w64-mingw32",
+		"B:/QT/Tools/mingw730_64/lib/gcc/x86_64-w64-mingw32/7.3.0/include/c++/backward",
+		"B:/QT/Tools/mingw730_64/lib/gcc/x86_64-w64-mingw32/7.3.0/include",
+		"B:/QT/Tools/mingw730_64/lib/gcc/x86_64-w64-mingw32/7.3.0/include-fixed",
+		"B:/QT/Tools/mingw730_64/x86_64-w64-mingw32/include"
+	],
+	"MOC_MACRO_NAMES" : [ "Q_OBJECT", "Q_GADGET", "Q_NAMESPACE", "Q_NAMESPACE_EXPORT" ],
+	"MOC_OPTIONS" : [],
+	"MOC_PATH_PREFIX" : false,
+	"MOC_PREDEFS_CMD" : 
+	[
+		"B:/QT/Tools/mingw730_64/bin/g++.exe",
+		"-std=gnu++1z",
+		"-dM",
+		"-E",
+		"-c",
+		"E:/Clion/CLion 2023.3.3/bin/cmake/win/x64/share/cmake-3.27/Modules/CMakeCXXCompilerABI.cpp"
+	],
+	"MOC_PREDEFS_FILE" : "E:/Clion/project/QT/cmake-build-debug-mingw_qt/QT_autogen/moc_predefs.h",
+	"MOC_RELAXED_MODE" : false,
+	"MOC_SKIP" : [],
+	"MULTI_CONFIG" : false,
+	"PARALLEL" : 12,
+	"PARSE_CACHE_FILE" : "E:/Clion/project/QT/cmake-build-debug-mingw_qt/CMakeFiles/QT_autogen.dir/ParseCache.txt",
+	"QT_MOC_EXECUTABLE" : "B:/QT/5.12.9/mingw73_64/bin/moc.exe",
+	"QT_UIC_EXECUTABLE" : "B:/QT/5.12.9/mingw73_64/bin/uic.exe",
+	"QT_VERSION_MAJOR" : 5,
+	"QT_VERSION_MINOR" : 12,
+	"SETTINGS_FILE" : "E:/Clion/project/QT/cmake-build-debug-mingw_qt/CMakeFiles/QT_autogen.dir/AutogenUsed.txt",
+	"SOURCES" : 
+	[
+		[ "E:/Clion/project/QT/main.cpp", "MU", null ],
+		[ "E:/Clion/project/QT/rtsp/addURL/addurl.cpp", "MU", null ],
+		[ "E:/Clion/project/QT/rtsp/listNode/videoList.cpp", "MU", null ],
+		[ "E:/Clion/project/QT/rtsp/mySerialPort/mySerialPort.cpp", "MU", null ],
+		[ "E:/Clion/project/QT/rtsp/mysql/mysql.cpp", "MU", null ],
+		[ "E:/Clion/project/QT/rtsp/rtsp.cpp", "MU", null ],
+		[ "E:/Clion/project/QT/rtsp/rtspUI/pushBtn/pushBtn.cpp", "MU", null ],
+		[ "E:/Clion/project/QT/rtsp/rtspUI/rtspui.cpp", "MU", null ],
+		[ "E:/Clion/project/QT/rtsp/rtspUI/switchBtn/SwitchBtn.cpp", "MU", null ],
+		[
+			"E:/Clion/project/QT/rtsp/rtspUI/videoScrollArea/videoScrollArea.cpp",
+			"MU",
+			null
+		],
+		[ "E:/Clion/project/QT/rtsp/videoWin/videoLabel.cpp", "MU", null ]
+	],
+	"UIC_OPTIONS" : [],
+	"UIC_SEARCH_PATHS" : [],
+	"UIC_SKIP" : [],
+	"UIC_UI_FILES" : [],
+	"VERBOSITY" : 0
+}

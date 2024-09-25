@@ -1,0 +1,3 @@
+"E:\Clion\CLion 2023.3.3\bin\cmake\win\x64\bin\cmake.exe" -E rm -f CMakeFiles\QT.dir/objects.a
+B:\QT\Tools\mingw730_64\bin\ar.exe qc CMakeFiles\QT.dir/objects.a @CMakeFiles\QT.dir\objects1.rsp
+B:\QT\Tools\mingw730_64\bin\g++.exe -g -Wl,--whole-archive CMakeFiles\QT.dir/objects.a -Wl,--no-whole-archive -o QT.exe -Wl,--out-implib,libQT.dll.a -Wl,--major-image-version,0,--minor-image-version,0 @CMakeFiles\QT.dir\linkLibs.rsp

@@ -1,0 +1,4 @@
+E:/Clion/project/QT/cmake-build-debug-mingw_qt/CMakeFiles/QT.dir
+E:/Clion/project/QT/cmake-build-debug-mingw_qt/CMakeFiles/edit_cache.dir
+E:/Clion/project/QT/cmake-build-debug-mingw_qt/CMakeFiles/rebuild_cache.dir
+E:/Clion/project/QT/cmake-build-debug-mingw_qt/CMakeFiles/QT_autogen.dir

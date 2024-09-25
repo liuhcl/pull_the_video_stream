@@ -1,0 +1,337 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CodeBlocks_project_file>
+	<FileVersion major="1" minor="6"/>
+	<Project>
+		<Option title="QT"/>
+		<Option makefile_is_custom="1"/>
+		<Option compiler="gcc"/>
+		<Option virtualFolders="CMake Files\;CMake Files\QT\;CMake Files\QT\5.12.9\;CMake Files\QT\5.12.9\mingw73_64\;CMake Files\QT\5.12.9\mingw73_64\lib\;CMake Files\QT\5.12.9\mingw73_64\lib\cmake\;CMake Files\QT\5.12.9\mingw73_64\lib\cmake\Qt5\;CMake Files\QT\5.12.9\mingw73_64\lib\cmake\Qt5Core\;CMake Files\QT\5.12.9\mingw73_64\lib\cmake\Qt5Gui\;CMake Files\QT\5.12.9\mingw73_64\lib\cmake\Qt5Widgets\;CMake Files\QT\5.12.9\mingw73_64\lib\cmake\Qt5Sql\;CMake Files\QT\5.12.9\mingw73_64\lib\cmake\Qt5SerialPort\;CMake Files\QT\5.12.9\mingw73_64\lib\cmake\Qt5Network\;"/>
+		<Build>
+			<Target title="all">
+				<Option working_dir="E:/Clion/project/QT/cmake-build-debug-mingw_qt"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="B:/QT/Tools/mingw730_64/bin/mingw32-make.exe -f &quot;E:/Clion/project/QT/cmake-build-debug-mingw_qt/Makefile&quot;  VERBOSE=1 all"/>
+					<CompileFile command="B:/QT/Tools/mingw730_64/bin/mingw32-make.exe -f &quot;E:/Clion/project/QT/cmake-build-debug-mingw_qt/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="B:/QT/Tools/mingw730_64/bin/mingw32-make.exe -f &quot;E:/Clion/project/QT/cmake-build-debug-mingw_qt/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="B:/QT/Tools/mingw730_64/bin/mingw32-make.exe -f &quot;E:/Clion/project/QT/cmake-build-debug-mingw_qt/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="QT">
+				<Option output="E:/Clion/project/QT/cmake-build-debug-mingw_qt/QT.exe" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="E:/Clion/project/QT/cmake-build-debug-mingw_qt"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add option="-DQT_CORE_LIB"/>
+					<Add option="-DQT_GUI_LIB"/>
+					<Add option="-DQT_WIDGETS_LIB"/>
+					<Add option="-DQT_SQL_LIB"/>
+					<Add option="-DQT_SERIALPORT_LIB"/>
+					<Add option="-DQT_NETWORK_LIB"/>
+					<Add directory="E:/Clion/project/QT/cmake-build-debug-mingw_qt/QT_autogen/include"/>
+					<Add directory="E:/Clion/project/QT/ffmpeg/include"/>
+					<Add directory="E:/Clion/project/QT/opencv/include"/>
+					<Add directory="B:/QT/5.12.9/mingw73_64/include"/>
+					<Add directory="B:/QT/5.12.9/mingw73_64/include/QtCore"/>
+					<Add directory="B:/QT/5.12.9/mingw73_64/./mkspecs/win32-g++"/>
+					<Add directory="B:/QT/5.12.9/mingw73_64/include/QtGui"/>
+					<Add directory="B:/QT/5.12.9/mingw73_64/include/QtANGLE"/>
+					<Add directory="B:/QT/5.12.9/mingw73_64/include/QtWidgets"/>
+					<Add directory="B:/QT/5.12.9/mingw73_64/include/QtSql"/>
+					<Add directory="B:/QT/5.12.9/mingw73_64/include/QtSerialPort"/>
+					<Add directory="B:/QT/5.12.9/mingw73_64/include/QtNetwork"/>
+					<Add directory="B:/QT/Tools/mingw730_64/bin/../lib/gcc/x86_64-w64-mingw32/7.3.0/include/c++"/>
+					<Add directory="B:/QT/Tools/mingw730_64/bin/../lib/gcc/x86_64-w64-mingw32/7.3.0/include/c++/x86_64-w64-mingw32"/>
+					<Add directory="B:/QT/Tools/mingw730_64/bin/../lib/gcc/x86_64-w64-mingw32/7.3.0/include/c++/backward"/>
+					<Add directory="B:/QT/Tools/mingw730_64/bin/../lib/gcc/x86_64-w64-mingw32/7.3.0/include"/>
+					<Add directory="B:/QT/Tools/mingw730_64/bin/../lib/gcc/x86_64-w64-mingw32/7.3.0/include-fixed"/>
+					<Add directory="B:/QT/Tools/mingw730_64/bin/../lib/gcc/x86_64-w64-mingw32/7.3.0/../../../../x86_64-w64-mingw32/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="B:/QT/Tools/mingw730_64/bin/mingw32-make.exe -f &quot;E:/Clion/project/QT/cmake-build-debug-mingw_qt/Makefile&quot;  VERBOSE=1 QT"/>
+					<CompileFile command="B:/QT/Tools/mingw730_64/bin/mingw32-make.exe -f &quot;E:/Clion/project/QT/cmake-build-debug-mingw_qt/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="B:/QT/Tools/mingw730_64/bin/mingw32-make.exe -f &quot;E:/Clion/project/QT/cmake-build-debug-mingw_qt/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="B:/QT/Tools/mingw730_64/bin/mingw32-make.exe -f &quot;E:/Clion/project/QT/cmake-build-debug-mingw_qt/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="QT/fast">
+				<Option output="E:/Clion/project/QT/cmake-build-debug-mingw_qt/QT.exe" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="E:/Clion/project/QT/cmake-build-debug-mingw_qt"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add option="-DQT_CORE_LIB"/>
+					<Add option="-DQT_GUI_LIB"/>
+					<Add option="-DQT_WIDGETS_LIB"/>
+					<Add option="-DQT_SQL_LIB"/>
+					<Add option="-DQT_SERIALPORT_LIB"/>
+					<Add option="-DQT_NETWORK_LIB"/>
+					<Add directory="E:/Clion/project/QT/cmake-build-debug-mingw_qt/QT_autogen/include"/>
+					<Add directory="E:/Clion/project/QT/ffmpeg/include"/>
+					<Add directory="E:/Clion/project/QT/opencv/include"/>
+					<Add directory="B:/QT/5.12.9/mingw73_64/include"/>
+					<Add directory="B:/QT/5.12.9/mingw73_64/include/QtCore"/>
+					<Add directory="B:/QT/5.12.9/mingw73_64/./mkspecs/win32-g++"/>
+					<Add directory="B:/QT/5.12.9/mingw73_64/include/QtGui"/>
+					<Add directory="B:/QT/5.12.9/mingw73_64/include/QtANGLE"/>
+					<Add directory="B:/QT/5.12.9/mingw73_64/include/QtWidgets"/>
+					<Add directory="B:/QT/5.12.9/mingw73_64/include/QtSql"/>
+					<Add directory="B:/QT/5.12.9/mingw73_64/include/QtSerialPort"/>
+					<Add directory="B:/QT/5.12.9/mingw73_64/include/QtNetwork"/>
+					<Add directory="B:/QT/Tools/mingw730_64/bin/../lib/gcc/x86_64-w64-mingw32/7.3.0/include/c++"/>
+					<Add directory="B:/QT/Tools/mingw730_64/bin/../lib/gcc/x86_64-w64-mingw32/7.3.0/include/c++/x86_64-w64-mingw32"/>
+					<Add directory="B:/QT/Tools/mingw730_64/bin/../lib/gcc/x86_64-w64-mingw32/7.3.0/include/c++/backward"/>
+					<Add directory="B:/QT/Tools/mingw730_64/bin/../lib/gcc/x86_64-w64-mingw32/7.3.0/include"/>
+					<Add directory="B:/QT/Tools/mingw730_64/bin/../lib/gcc/x86_64-w64-mingw32/7.3.0/include-fixed"/>
+					<Add directory="B:/QT/Tools/mingw730_64/bin/../lib/gcc/x86_64-w64-mingw32/7.3.0/../../../../x86_64-w64-mingw32/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="B:/QT/Tools/mingw730_64/bin/mingw32-make.exe -f &quot;E:/Clion/project/QT/cmake-build-debug-mingw_qt/Makefile&quot;  VERBOSE=1 QT/fast"/>
+					<CompileFile command="B:/QT/Tools/mingw730_64/bin/mingw32-make.exe -f &quot;E:/Clion/project/QT/cmake-build-debug-mingw_qt/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="B:/QT/Tools/mingw730_64/bin/mingw32-make.exe -f &quot;E:/Clion/project/QT/cmake-build-debug-mingw_qt/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="B:/QT/Tools/mingw730_64/bin/mingw32-make.exe -f &quot;E:/Clion/project/QT/cmake-build-debug-mingw_qt/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="edit_cache">
+				<Option working_dir="E:/Clion/project/QT/cmake-build-debug-mingw_qt"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="B:/QT/Tools/mingw730_64/bin/mingw32-make.exe -f &quot;E:/Clion/project/QT/cmake-build-debug-mingw_qt/Makefile&quot;  VERBOSE=1 edit_cache"/>
+					<CompileFile command="B:/QT/Tools/mingw730_64/bin/mingw32-make.exe -f &quot;E:/Clion/project/QT/cmake-build-debug-mingw_qt/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="B:/QT/Tools/mingw730_64/bin/mingw32-make.exe -f &quot;E:/Clion/project/QT/cmake-build-debug-mingw_qt/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="B:/QT/Tools/mingw730_64/bin/mingw32-make.exe -f &quot;E:/Clion/project/QT/cmake-build-debug-mingw_qt/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="rebuild_cache">
+				<Option working_dir="E:/Clion/project/QT/cmake-build-debug-mingw_qt"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="B:/QT/Tools/mingw730_64/bin/mingw32-make.exe -f &quot;E:/Clion/project/QT/cmake-build-debug-mingw_qt/Makefile&quot;  VERBOSE=1 rebuild_cache"/>
+					<CompileFile command="B:/QT/Tools/mingw730_64/bin/mingw32-make.exe -f &quot;E:/Clion/project/QT/cmake-build-debug-mingw_qt/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="B:/QT/Tools/mingw730_64/bin/mingw32-make.exe -f &quot;E:/Clion/project/QT/cmake-build-debug-mingw_qt/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="B:/QT/Tools/mingw730_64/bin/mingw32-make.exe -f &quot;E:/Clion/project/QT/cmake-build-debug-mingw_qt/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="QT_autogen">
+				<Option working_dir="E:/Clion/project/QT/cmake-build-debug-mingw_qt"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="B:/QT/Tools/mingw730_64/bin/mingw32-make.exe -f &quot;E:/Clion/project/QT/cmake-build-debug-mingw_qt/Makefile&quot;  VERBOSE=1 QT_autogen"/>
+					<CompileFile command="B:/QT/Tools/mingw730_64/bin/mingw32-make.exe -f &quot;E:/Clion/project/QT/cmake-build-debug-mingw_qt/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="B:/QT/Tools/mingw730_64/bin/mingw32-make.exe -f &quot;E:/Clion/project/QT/cmake-build-debug-mingw_qt/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="B:/QT/Tools/mingw730_64/bin/mingw32-make.exe -f &quot;E:/Clion/project/QT/cmake-build-debug-mingw_qt/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+		</Build>
+		<Unit filename="E:/Clion/project/QT/cmake-build-debug-mingw_qt/QT_autogen/include/rtsp/addURL/ui_addurl.h">
+			<Option target="QT"/>
+		</Unit>
+		<Unit filename="E:/Clion/project/QT/cmake-build-debug-mingw_qt/QT_autogen/include/rtsp/rtspUI/ui_rtspui.h">
+			<Option target="QT"/>
+		</Unit>
+		<Unit filename="E:/Clion/project/QT/cmake-build-debug-mingw_qt/QT_autogen/mocs_compilation.cpp">
+			<Option target="QT"/>
+		</Unit>
+		<Unit filename="E:/Clion/project/QT/main.cpp">
+			<Option target="QT"/>
+		</Unit>
+		<Unit filename="E:/Clion/project/QT/rtsp/addURL/addurl.cpp">
+			<Option target="QT"/>
+		</Unit>
+		<Unit filename="E:/Clion/project/QT/rtsp/addURL/addurl.h">
+			<Option target="QT"/>
+		</Unit>
+		<Unit filename="E:/Clion/project/QT/rtsp/addURL/addurl.ui">
+			<Option target="QT"/>
+		</Unit>
+		<Unit filename="E:/Clion/project/QT/rtsp/listNode/videoList.cpp">
+			<Option target="QT"/>
+		</Unit>
+		<Unit filename="E:/Clion/project/QT/rtsp/listNode/videoList.h">
+			<Option target="QT"/>
+		</Unit>
+		<Unit filename="E:/Clion/project/QT/rtsp/mySerialPort/mySerialPort.cpp">
+			<Option target="QT"/>
+		</Unit>
+		<Unit filename="E:/Clion/project/QT/rtsp/mySerialPort/mySerialPort.h">
+			<Option target="QT"/>
+		</Unit>
+		<Unit filename="E:/Clion/project/QT/rtsp/mysql/mysql.cpp">
+			<Option target="QT"/>
+		</Unit>
+		<Unit filename="E:/Clion/project/QT/rtsp/mysql/mysql.h">
+			<Option target="QT"/>
+		</Unit>
+		<Unit filename="E:/Clion/project/QT/rtsp/rtsp.cpp">
+			<Option target="QT"/>
+		</Unit>
+		<Unit filename="E:/Clion/project/QT/rtsp/rtsp.h">
+			<Option target="QT"/>
+		</Unit>
+		<Unit filename="E:/Clion/project/QT/rtsp/rtspUI/pushBtn/pushBtn.cpp">
+			<Option target="QT"/>
+		</Unit>
+		<Unit filename="E:/Clion/project/QT/rtsp/rtspUI/pushBtn/pushBtn.h">
+			<Option target="QT"/>
+		</Unit>
+		<Unit filename="E:/Clion/project/QT/rtsp/rtspUI/rtspui.cpp">
+			<Option target="QT"/>
+		</Unit>
+		<Unit filename="E:/Clion/project/QT/rtsp/rtspUI/rtspui.h">
+			<Option target="QT"/>
+		</Unit>
+		<Unit filename="E:/Clion/project/QT/rtsp/rtspUI/rtspui.ui">
+			<Option target="QT"/>
+		</Unit>
+		<Unit filename="E:/Clion/project/QT/rtsp/rtspUI/switchBtn/SwitchBtn.cpp">
+			<Option target="QT"/>
+		</Unit>
+		<Unit filename="E:/Clion/project/QT/rtsp/rtspUI/switchBtn/SwitchBtn.h">
+			<Option target="QT"/>
+		</Unit>
+		<Unit filename="E:/Clion/project/QT/rtsp/rtspUI/videoScrollArea/videoScrollArea.cpp">
+			<Option target="QT"/>
+		</Unit>
+		<Unit filename="E:/Clion/project/QT/rtsp/rtspUI/videoScrollArea/videoScrollArea.h">
+			<Option target="QT"/>
+		</Unit>
+		<Unit filename="E:/Clion/project/QT/rtsp/videoWin/videoLabel.cpp">
+			<Option target="QT"/>
+		</Unit>
+		<Unit filename="E:/Clion/project/QT/rtsp/videoWin/videoLabel.h">
+			<Option target="QT"/>
+		</Unit>
+		<Unit filename="E:/Clion/project/QT/CMakeLists.txt">
+			<Option virtualFolder="CMake Files\"/>
+		</Unit>
+		<Unit filename="E:/Clion/project/QT/QT/5.12.9/mingw73_64/lib/cmake/Qt5/Qt5Config.cmake">
+			<Option virtualFolder="CMake Files\QT\5.12.9\mingw73_64\lib\cmake\Qt5\"/>
+		</Unit>
+		<Unit filename="E:/Clion/project/QT/QT/5.12.9/mingw73_64/lib/cmake/Qt5/Qt5ConfigVersion.cmake">
+			<Option virtualFolder="CMake Files\QT\5.12.9\mingw73_64\lib\cmake\Qt5\"/>
+		</Unit>
+		<Unit filename="E:/Clion/project/QT/QT/5.12.9/mingw73_64/lib/cmake/Qt5/Qt5ModuleLocation.cmake">
+			<Option virtualFolder="CMake Files\QT\5.12.9\mingw73_64\lib\cmake\Qt5\"/>
+		</Unit>
+		<Unit filename="E:/Clion/project/QT/QT/5.12.9/mingw73_64/lib/cmake/Qt5Core/Qt5CoreConfig.cmake">
+			<Option virtualFolder="CMake Files\QT\5.12.9\mingw73_64\lib\cmake\Qt5Core\"/>
+		</Unit>
+		<Unit filename="E:/Clion/project/QT/QT/5.12.9/mingw73_64/lib/cmake/Qt5Core/Qt5CoreConfigExtras.cmake">
+			<Option virtualFolder="CMake Files\QT\5.12.9\mingw73_64\lib\cmake\Qt5Core\"/>
+		</Unit>
+		<Unit filename="E:/Clion/project/QT/QT/5.12.9/mingw73_64/lib/cmake/Qt5Core/Qt5CoreConfigExtrasMkspecDir.cmake">
+			<Option virtualFolder="CMake Files\QT\5.12.9\mingw73_64\lib\cmake\Qt5Core\"/>
+		</Unit>
+		<Unit filename="E:/Clion/project/QT/QT/5.12.9/mingw73_64/lib/cmake/Qt5Core/Qt5CoreConfigVersion.cmake">
+			<Option virtualFolder="CMake Files\QT\5.12.9\mingw73_64\lib\cmake\Qt5Core\"/>
+		</Unit>
+		<Unit filename="E:/Clion/project/QT/QT/5.12.9/mingw73_64/lib/cmake/Qt5Core/Qt5CoreMacros.cmake">
+			<Option virtualFolder="CMake Files\QT\5.12.9\mingw73_64\lib\cmake\Qt5Core\"/>
+		</Unit>
+		<Unit filename="E:/Clion/project/QT/QT/5.12.9/mingw73_64/lib/cmake/Qt5Gui/Qt5GuiConfig.cmake">
+			<Option virtualFolder="CMake Files\QT\5.12.9\mingw73_64\lib\cmake\Qt5Gui\"/>
+		</Unit>
+		<Unit filename="E:/Clion/project/QT/QT/5.12.9/mingw73_64/lib/cmake/Qt5Gui/Qt5GuiConfigExtras.cmake">
+			<Option virtualFolder="CMake Files\QT\5.12.9\mingw73_64\lib\cmake\Qt5Gui\"/>
+		</Unit>
+		<Unit filename="E:/Clion/project/QT/QT/5.12.9/mingw73_64/lib/cmake/Qt5Gui/Qt5GuiConfigVersion.cmake">
+			<Option virtualFolder="CMake Files\QT\5.12.9\mingw73_64\lib\cmake\Qt5Gui\"/>
+		</Unit>
+		<Unit filename="E:/Clion/project/QT/QT/5.12.9/mingw73_64/lib/cmake/Qt5Gui/Qt5Gui_QGifPlugin.cmake">
+			<Option virtualFolder="CMake Files\QT\5.12.9\mingw73_64\lib\cmake\Qt5Gui\"/>
+		</Unit>
+		<Unit filename="E:/Clion/project/QT/QT/5.12.9/mingw73_64/lib/cmake/Qt5Gui/Qt5Gui_QICNSPlugin.cmake">
+			<Option virtualFolder="CMake Files\QT\5.12.9\mingw73_64\lib\cmake\Qt5Gui\"/>
+		</Unit>
+		<Unit filename="E:/Clion/project/QT/QT/5.12.9/mingw73_64/lib/cmake/Qt5Gui/Qt5Gui_QICOPlugin.cmake">
+			<Option virtualFolder="CMake Files\QT\5.12.9\mingw73_64\lib\cmake\Qt5Gui\"/>
+		</Unit>
+		<Unit filename="E:/Clion/project/QT/QT/5.12.9/mingw73_64/lib/cmake/Qt5Gui/Qt5Gui_QJpegPlugin.cmake">
+			<Option virtualFolder="CMake Files\QT\5.12.9\mingw73_64\lib\cmake\Qt5Gui\"/>
+		</Unit>
+		<Unit filename="E:/Clion/project/QT/QT/5.12.9/mingw73_64/lib/cmake/Qt5Gui/Qt5Gui_QMinimalIntegrationPlugin.cmake">
+			<Option virtualFolder="CMake Files\QT\5.12.9\mingw73_64\lib\cmake\Qt5Gui\"/>
+		</Unit>
+		<Unit filename="E:/Clion/project/QT/QT/5.12.9/mingw73_64/lib/cmake/Qt5Gui/Qt5Gui_QOffscreenIntegrationPlugin.cmake">
+			<Option virtualFolder="CMake Files\QT\5.12.9\mingw73_64\lib\cmake\Qt5Gui\"/>
+		</Unit>
+		<Unit filename="E:/Clion/project/QT/QT/5.12.9/mingw73_64/lib/cmake/Qt5Gui/Qt5Gui_QTgaPlugin.cmake">
+			<Option virtualFolder="CMake Files\QT\5.12.9\mingw73_64\lib\cmake\Qt5Gui\"/>
+		</Unit>
+		<Unit filename="E:/Clion/project/QT/QT/5.12.9/mingw73_64/lib/cmake/Qt5Gui/Qt5Gui_QTiffPlugin.cmake">
+			<Option virtualFolder="CMake Files\QT\5.12.9\mingw73_64\lib\cmake\Qt5Gui\"/>
+		</Unit>
+		<Unit filename="E:/Clion/project/QT/QT/5.12.9/mingw73_64/lib/cmake/Qt5Gui/Qt5Gui_QTuioTouchPlugin.cmake">
+			<Option virtualFolder="CMake Files\QT\5.12.9\mingw73_64\lib\cmake\Qt5Gui\"/>
+		</Unit>
+		<Unit filename="E:/Clion/project/QT/QT/5.12.9/mingw73_64/lib/cmake/Qt5Gui/Qt5Gui_QVirtualKeyboardPlugin.cmake">
+			<Option virtualFolder="CMake Files\QT\5.12.9\mingw73_64\lib\cmake\Qt5Gui\"/>
+		</Unit>
+		<Unit filename="E:/Clion/project/QT/QT/5.12.9/mingw73_64/lib/cmake/Qt5Gui/Qt5Gui_QWbmpPlugin.cmake">
+			<Option virtualFolder="CMake Files\QT\5.12.9\mingw73_64\lib\cmake\Qt5Gui\"/>
+		</Unit>
+		<Unit filename="E:/Clion/project/QT/QT/5.12.9/mingw73_64/lib/cmake/Qt5Gui/Qt5Gui_QWebGLIntegrationPlugin.cmake">
+			<Option virtualFolder="CMake Files\QT\5.12.9\mingw73_64\lib\cmake\Qt5Gui\"/>
+		</Unit>
+		<Unit filename="E:/Clion/project/QT/QT/5.12.9/mingw73_64/lib/cmake/Qt5Gui/Qt5Gui_QWebpPlugin.cmake">
+			<Option virtualFolder="CMake Files\QT\5.12.9\mingw73_64\lib\cmake\Qt5Gui\"/>
+		</Unit>
+		<Unit filename="E:/Clion/project/QT/QT/5.12.9/mingw73_64/lib/cmake/Qt5Gui/Qt5Gui_QWindowsDirect2DIntegrationPlugin.cmake">
+			<Option virtualFolder="CMake Files\QT\5.12.9\mingw73_64\lib\cmake\Qt5Gui\"/>
+		</Unit>
+		<Unit filename="E:/Clion/project/QT/QT/5.12.9/mingw73_64/lib/cmake/Qt5Gui/Qt5Gui_QWindowsIntegrationPlugin.cmake">
+			<Option virtualFolder="CMake Files\QT\5.12.9\mingw73_64\lib\cmake\Qt5Gui\"/>
+		</Unit>
+		<Unit filename="E:/Clion/project/QT/QT/5.12.9/mingw73_64/lib/cmake/Qt5Gui/Qt5Gui_QXdgDesktopPortalThemePlugin.cmake">
+			<Option virtualFolder="CMake Files\QT\5.12.9\mingw73_64\lib\cmake\Qt5Gui\"/>
+		</Unit>
+		<Unit filename="E:/Clion/project/QT/QT/5.12.9/mingw73_64/lib/cmake/Qt5Widgets/Qt5WidgetsConfig.cmake">
+			<Option virtualFolder="CMake Files\QT\5.12.9\mingw73_64\lib\cmake\Qt5Widgets\"/>
+		</Unit>
+		<Unit filename="E:/Clion/project/QT/QT/5.12.9/mingw73_64/lib/cmake/Qt5Widgets/Qt5WidgetsConfigExtras.cmake">
+			<Option virtualFolder="CMake Files\QT\5.12.9\mingw73_64\lib\cmake\Qt5Widgets\"/>
+		</Unit>
+		<Unit filename="E:/Clion/project/QT/QT/5.12.9/mingw73_64/lib/cmake/Qt5Widgets/Qt5WidgetsConfigVersion.cmake">
+			<Option virtualFolder="CMake Files\QT\5.12.9\mingw73_64\lib\cmake\Qt5Widgets\"/>
+		</Unit>
+		<Unit filename="E:/Clion/project/QT/QT/5.12.9/mingw73_64/lib/cmake/Qt5Widgets/Qt5WidgetsMacros.cmake">
+			<Option virtualFolder="CMake Files\QT\5.12.9\mingw73_64\lib\cmake\Qt5Widgets\"/>
+		</Unit>
+		<Unit filename="E:/Clion/project/QT/QT/5.12.9/mingw73_64/lib/cmake/Qt5Widgets/Qt5Widgets_QWindowsVistaStylePlugin.cmake">
+			<Option virtualFolder="CMake Files\QT\5.12.9\mingw73_64\lib\cmake\Qt5Widgets\"/>
+		</Unit>
+		<Unit filename="E:/Clion/project/QT/QT/5.12.9/mingw73_64/lib/cmake/Qt5Sql/Qt5SqlConfig.cmake">
+			<Option virtualFolder="CMake Files\QT\5.12.9\mingw73_64\lib\cmake\Qt5Sql\"/>
+		</Unit>
+		<Unit filename="E:/Clion/project/QT/QT/5.12.9/mingw73_64/lib/cmake/Qt5Sql/Qt5SqlConfigVersion.cmake">
+			<Option virtualFolder="CMake Files\QT\5.12.9\mingw73_64\lib\cmake\Qt5Sql\"/>
+		</Unit>
+		<Unit filename="E:/Clion/project/QT/QT/5.12.9/mingw73_64/lib/cmake/Qt5Sql/Qt5Sql_QODBCDriverPlugin.cmake">
+			<Option virtualFolder="CMake Files\QT\5.12.9\mingw73_64\lib\cmake\Qt5Sql\"/>
+		</Unit>
+		<Unit filename="E:/Clion/project/QT/QT/5.12.9/mingw73_64/lib/cmake/Qt5Sql/Qt5Sql_QPSQLDriverPlugin.cmake">
+			<Option virtualFolder="CMake Files\QT\5.12.9\mingw73_64\lib\cmake\Qt5Sql\"/>
+		</Unit>
+		<Unit filename="E:/Clion/project/QT/QT/5.12.9/mingw73_64/lib/cmake/Qt5Sql/Qt5Sql_QSQLiteDriverPlugin.cmake">
+			<Option virtualFolder="CMake Files\QT\5.12.9\mingw73_64\lib\cmake\Qt5Sql\"/>
+		</Unit>
+		<Unit filename="E:/Clion/project/QT/QT/5.12.9/mingw73_64/lib/cmake/Qt5SerialPort/Qt5SerialPortConfig.cmake">
+			<Option virtualFolder="CMake Files\QT\5.12.9\mingw73_64\lib\cmake\Qt5SerialPort\"/>
+		</Unit>
+		<Unit filename="E:/Clion/project/QT/QT/5.12.9/mingw73_64/lib/cmake/Qt5SerialPort/Qt5SerialPortConfigVersion.cmake">
+			<Option virtualFolder="CMake Files\QT\5.12.9\mingw73_64\lib\cmake\Qt5SerialPort\"/>
+		</Unit>
+		<Unit filename="E:/Clion/project/QT/QT/5.12.9/mingw73_64/lib/cmake/Qt5Network/Qt5NetworkConfig.cmake">
+			<Option virtualFolder="CMake Files\QT\5.12.9\mingw73_64\lib\cmake\Qt5Network\"/>
+		</Unit>
+		<Unit filename="E:/Clion/project/QT/QT/5.12.9/mingw73_64/lib/cmake/Qt5Network/Qt5NetworkConfigVersion.cmake">
+			<Option virtualFolder="CMake Files\QT\5.12.9\mingw73_64\lib\cmake\Qt5Network\"/>
+		</Unit>
+		<Unit filename="E:/Clion/project/QT/QT/5.12.9/mingw73_64/lib/cmake/Qt5Network/Qt5Network_QGenericEnginePlugin.cmake">
+			<Option virtualFolder="CMake Files\QT\5.12.9\mingw73_64\lib\cmake\Qt5Network\"/>
+		</Unit>
+	</Project>
+</CodeBlocks_project_file>
