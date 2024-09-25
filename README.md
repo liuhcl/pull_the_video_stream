@@ -1,1 +1,1 @@
-# pull_the_video_stream
+用于接收rk3588的视屏流
